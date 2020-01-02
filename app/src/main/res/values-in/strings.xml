@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission4</string>
+    <string name="navigation_drawer_open">Buka navigation drawer</string>
+    <string name="navigation_drawer_close">Tutup navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_movie">FILM</string>
+    <string name="label_tvshow">SERIAL TV</string>
+    <string name="label_fav_movie">Film Favorit</string>
+    <string name="label_fav_tvshow">Serial Favorit</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Serial TV</string>
+    <string name="favorite">Favorit</string>
+    <string name="favorite_movie">Film Favorit</string>
+    <string name="favorite_tv_show">Serial Favorit</string>
+    <string name="language">Bahasa</string>
+    <string name="release_date">Tanggal rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="dialog_message_delete">Apakah anda yakin ingin menghapus film ini?</string>
+    <string name="dialog_title_delete">Hapus film</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="item_deleted">Film dihapus</string>
+    <string name="description">Deskripsi</string>
+    <string name="added_to_favorite">ditambahkan ke favorit</string>
+    <string name="no_data">belum ada data</string>
+</resources>
